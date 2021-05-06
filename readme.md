@@ -8,6 +8,6 @@ Metodo para mostrar: pack()
 
 Ver el ejemplo: 
 
-**Ocultar_mostrar_varios_frames_v2.py***
+**Ocultar_mostrar_varios_frames_v2.py**
 
 
